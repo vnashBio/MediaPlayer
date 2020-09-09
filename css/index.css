@@ -115,14 +115,14 @@ body {
 .current-time {
     position: absolute;
     left: 40%;
-    top: 86%;
+    top: 89%;
     transform: translate(-50%, -50%);
 }
 
 .total-duration {
     position: absolute;
     left: 59%;
-    top: 86%;
+    top: 89%;
     transform: translate(-50%, -50%);
 }
 
